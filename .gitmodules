@@ -1,0 +1,3 @@
+[submodule "Kratos/gnublin-api"]
+	path = Kratos/gnublin-api
+	url = https://github.com/embeddedprojects/gnublin-api.git
